@@ -75,6 +75,16 @@ nav li:hover {
     color: #FEF1C1;
     }
       
+
+.drop-down {
+    display: none;
+}
+
+
+.drop-down li {
+    padding: 1em;
+}
+
 .top-social i {
     font-size: 2em;
     color: white;
